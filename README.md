@@ -9,5 +9,7 @@ along with their annotations, but as annotation were in Pascal VOC xml format i 
 
 # Counting object detected
 https://github.com/theAIGuysCode/yolov4-custom-functions.git
-Used this repo to get the count of object detected.
+\n Used this repo to get the count of object detected.
+orginal video https://www.youtube.com/watch?v=9WNzIDEcNP4
+detected video https://drive.google.com/file/d/1HjHJj6YuNptJM1ClI6MSEAoaH4kuNS9t/view?usp=sharing
  
