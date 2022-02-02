@@ -8,8 +8,8 @@ which has two classes:
 along with their annotations, but as annotation were in Pascal VOC xml format i converted it into yolo format(https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec) and then trained these images with the YOLOv4 object detection algo with gave me quite impressive mAP.I have used the pre trained weight yolov4.conv.137 and further trained my model on this for around 2000 iterations and got an avg mAP pf around 88% for the model.
 
 # Counting object detected
-https://github.com/theAIGuysCode/yolov4-custom-functions.git __
- Used this repo to get the count of object detected. __
-orginal video https://www.youtube.com/watch?v=9WNzIDEcNP4 __
+https://github.com/theAIGuysCode/yolov4-custom-functions.git <br />
+ Used this repo to get the count of object detected. <br />
+orginal video https://www.youtube.com/watch?v=9WNzIDEcNP4 <br />
 detected video https://drive.google.com/file/d/1HjHJj6YuNptJM1ClI6MSEAoaH4kuNS9t/view?usp=sharing
  
